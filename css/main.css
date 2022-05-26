@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+body{
+    font-family: 'Roboto' , sans-serif;
+    background: #FFD845;
+    width: 1920px;
+    height: 1715px;
+}
+
+.search__img{
+    position: absolute;
+    left: 939px;
+    top: 363px;
+}
+.card{
+    aspect-ratio: 2/3;
+    overflow: hidden;
+    margin: auto;
+}
+
+.card__icon{
+    position: absolute;
+    top: 320px;
+    left: 250px;
+}
+
+.heart__img{
+    position: absolute;
+    left: 1550px;
+}
